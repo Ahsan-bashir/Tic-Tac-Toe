@@ -1,10 +1,6 @@
 # Tic Tac Toe
 
-This is a simple Tic Tac Toe game made in Flutter written albeit a little cookie cutter.
-
-## Contributing
-
-Contributions are welcome. If you have any ideas, suggestions, or bug reports, please create an issue or submit a pull request. You can also contact me at carrot#8856 on Discord.
+This is a simple Tic Tac Toe game made in Flutter written albeit a little cookie cutte
 
 ## Snippets
 ![screenshot (2)](https://github.com/Ahsan-bashir/Tic-Tac-Toe/assets/109027791/9b61e7c5-b5ad-4db4-bdfc-cdc343f1a827)
